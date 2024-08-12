@@ -1,5 +1,5 @@
 # Personal Finance Tracker
-Your Finance Tracker
+#Your Finance Tracker -
 It is a web application designed to help you manage your finances with ease. Whether you're looking to track your income, monitor expenses, or set financial goals, this tool provides a simple and effective way to stay on top of your financial health.
 
 
